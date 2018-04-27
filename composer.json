@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-atto-morefontcolors",
+    "type": "moodle-atto",
+    "description": "Atto Plugin",
+    "extra": {
+        "installer-name": "morefontcolors",
+        "moodle": { "package_folder_name" : "morefontcolors" }
+    }
