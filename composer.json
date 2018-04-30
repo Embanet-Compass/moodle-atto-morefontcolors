@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-atto-morefontcolors",
     "type": "moodle-atto",
@@ -6,4 +5,4 @@
     "extra": {
         "installer-name": "morefontcolors",
         "moodle": { "package_folder_name" : "morefontcolors" }
-    }
+}
