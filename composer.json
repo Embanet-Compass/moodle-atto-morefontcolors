@@ -5,4 +5,5 @@
     "extra": {
         "installer-name": "morefontcolors",
         "moodle": { "package_folder_name" : "morefontcolors" }
+    }
 }
